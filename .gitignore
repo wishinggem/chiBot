@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ignore creds
+Dependencies/References/Config
+Dependencies/References/Data
+Dependencies/Steam_Integration
